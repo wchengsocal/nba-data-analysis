@@ -1,4 +1,13 @@
-pandas
-matplotlib
-scikit-learn
-jupyter
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+nba_api==1.4.1
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.3
+seaborn==0.13.2
+scipy==1.13.0
+diskcache==5.6.3
+python-dotenv==1.0.1
+httpx==0.27.0
+pytest==8.1.1
+pytest-asyncio==0.23.6
