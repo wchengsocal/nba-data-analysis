@@ -1,6 +1,6 @@
-# 🏀 NBA Analytics Dashboard
+# NBA Analytics Dashboard
 
-A full-stack NBA data analysis platform featuring player performance tracking, team standings, shot chart efficiency, and historical comparisons — powered by a Python/FastAPI backend and React frontend.
+An NBA data analysis platform featuring player performance tracking, team standings, shot chart efficiency, and historical comparisons — powered by a Python/FastAPI backend and React frontend.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green?style=flat-square&logo=fastapi)
